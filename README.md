@@ -1,5 +1,4 @@
-# MSc-Comparative-Study-Hyperparameter Optimization-Surrogate-Techniques-CNN
-Comparative Study of Surrogate Techniques for Hyperparameter Optimization in Convolutional Neural Network (CNN) 
+# Comparative Study of Surrogate Techniques for Hyperparameter Optimization in Convolutional Neural Network (CNN) 
 
 Summary :
 
